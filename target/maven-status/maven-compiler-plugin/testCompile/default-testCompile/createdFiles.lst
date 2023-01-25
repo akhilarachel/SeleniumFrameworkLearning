@@ -1,0 +1,15 @@
+com/sd/pages/addProducts.class
+com/sd/utility/ExcelTestDataReader.class
+com/sd/tests/TC2EmptyCartCheckout.class
+com/sd/pages/cart.class
+com/sd/pages/checkoutOverview.class
+com/sd/utility/ConfigDataReader.class
+com/sd/pages/login.class
+com/sd/pages/launcherClass.class
+com/sd/tests/TC1CheckoutForStandardUser.class
+com/sd/tests/TC3LockedUserLogin.class
+com/sd/pages/checkout.class
+com/sd/utility/BrowserSettings.class
+com/sd/pages/logout.class
+com/sd/pages/finishCheckout.class
+com/sd/utility/Helper.class

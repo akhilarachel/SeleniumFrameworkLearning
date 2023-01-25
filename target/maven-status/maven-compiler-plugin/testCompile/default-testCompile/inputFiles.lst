@@ -1,0 +1,15 @@
+/Users/akhilaracheloommen/SeleniumFrameworkLearning/src/test/java/com/sd/pages/cart.java
+/Users/akhilaracheloommen/SeleniumFrameworkLearning/src/test/java/com/sd/utility/ExcelTestDataReader.java
+/Users/akhilaracheloommen/SeleniumFrameworkLearning/src/test/java/com/sd/tests/TC2EmptyCartCheckout.java
+/Users/akhilaracheloommen/SeleniumFrameworkLearning/src/test/java/com/sd/tests/TC1CheckoutForStandardUser.java
+/Users/akhilaracheloommen/SeleniumFrameworkLearning/src/test/java/com/sd/pages/logout.java
+/Users/akhilaracheloommen/SeleniumFrameworkLearning/src/test/java/com/sd/pages/finishCheckout.java
+/Users/akhilaracheloommen/SeleniumFrameworkLearning/src/test/java/com/sd/pages/login.java
+/Users/akhilaracheloommen/SeleniumFrameworkLearning/src/test/java/com/sd/tests/TC3LockedUserLogin.java
+/Users/akhilaracheloommen/SeleniumFrameworkLearning/src/test/java/com/sd/pages/addProducts.java
+/Users/akhilaracheloommen/SeleniumFrameworkLearning/src/test/java/com/sd/utility/BrowserSettings.java
+/Users/akhilaracheloommen/SeleniumFrameworkLearning/src/test/java/com/sd/utility/ConfigDataReader.java
+/Users/akhilaracheloommen/SeleniumFrameworkLearning/src/test/java/com/sd/pages/checkout.java
+/Users/akhilaracheloommen/SeleniumFrameworkLearning/src/test/java/com/sd/pages/launcherClass.java
+/Users/akhilaracheloommen/SeleniumFrameworkLearning/src/test/java/com/sd/pages/checkoutOverview.java
+/Users/akhilaracheloommen/SeleniumFrameworkLearning/src/test/java/com/sd/utility/Helper.java
